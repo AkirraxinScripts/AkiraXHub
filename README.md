@@ -1,5 +1,4 @@
-# AkiraXHub
-a script for blox fruits ( Risk of ban, Are in BETA!! )
+
 
 if game.PlaceId == 2753915549 then
     World1 = true
